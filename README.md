@@ -165,7 +165,7 @@ Updated for 2025</p>
 </html>
 ```
 ## OUTPUT:
-![alt text](25005647.JPG)
+![alt text](<Screenshot 2025-12-26 165035.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
